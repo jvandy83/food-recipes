@@ -22,4 +22,3 @@ class CalcTests(SimpleTestCase):
         res = calc.subtract(10, 25)
 
         self.assertEqual(res, -15)
-        
